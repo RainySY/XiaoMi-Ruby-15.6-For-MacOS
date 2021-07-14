@@ -1,6 +1,6 @@
 # 小米-Ruby-15.6-UMA-only
 
-##### 本套EFI的源文件皆来源于 [XenOriginal](https://github.com/XenOriginal)所制作的
+##### 本套EFI的源文件皆来源于 [XenOriginal](https://github.com/XenOriginal)所制作的[XiaoMi-Ruby-15.6-UMA-only](https://github.com/XenOriginal/XiaoMi-Ruby-15.6-UMA-only)
 
 ##### 因为他所制作的EFI并不支持我所购买的DW1820A网卡，故自己按照他原先的文件进行一定程度的修改
 
