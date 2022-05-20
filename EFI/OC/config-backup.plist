@@ -79,23 +79,31 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>X1EwRg==</data>
+				<data>
+				X1EwRg==
+				</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Mask</key>
-				<data></data>
+				<data>
+				</data>
 				<key>OemTableId</key>
-				<data></data>
+				<data>
+				</data>
 				<key>Replace</key>
-				<data>WFEwRg==</data>
+				<data>
+				WFEwRg==
+				</data>
 				<key>ReplaceMask</key>
-				<data></data>
+				<data>
+				</data>
 				<key>Skip</key>
 				<integer>0</integer>
 				<key>TableLength</key>
 				<integer>0</integer>
 				<key>TableSignature</key>
-				<data></data>
+				<data>
+				</data>
 			</dict>
 			<dict>
 				<key>Base</key>
@@ -109,143 +117,95 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>X1ExMA==</data>
+				<data>
+				X1ExMA==
+				</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Mask</key>
-				<data></data>
+				<data>
+				</data>
 				<key>OemTableId</key>
-				<data></data>
+				<data>
+				</data>
 				<key>Replace</key>
-				<data>WFExMA==</data>
+				<data>
+				WFExMA==
+				</data>
 				<key>ReplaceMask</key>
-				<data></data>
+				<data>
+				</data>
 				<key>Skip</key>
 				<integer>0</integer>
 				<key>TableLength</key>
 				<integer>0</integer>
 				<key>TableSignature</key>
-				<data></data>
+				<data>
+				</data>
 			</dict>
 			<dict>
-				<key>Base</key>
-				<string></string>
-				<key>BaseSkip</key>
-				<integer>0</integer>
 				<key>Comment</key>
 				<string>Rename EHC1 to EH01 (USB)</string>
-				<key>Count</key>
-				<integer>0</integer>
-				<key>Enabled</key>
-				<false/>
 				<key>Find</key>
-				<data>RUhDMQ==</data>
-				<key>Limit</key>
-				<integer>0</integer>
-				<key>Mask</key>
-				<data></data>
-				<key>OemTableId</key>
-				<data></data>
+				<data>
+				RUhDMQ==
+				</data>
 				<key>Replace</key>
-				<data>RUgwMQ==</data>
-				<key>ReplaceMask</key>
-				<data></data>
-				<key>Skip</key>
-				<integer>0</integer>
-				<key>TableLength</key>
-				<integer>0</integer>
+				<data>
+				RUgwMQ==
+				</data>
 				<key>TableSignature</key>
-				<data>RFNEVA==</data>
+				<data>
+				RFNEVA==
+				</data>
 			</dict>
 			<dict>
-				<key>Base</key>
-				<string></string>
-				<key>BaseSkip</key>
-				<integer>0</integer>
 				<key>Comment</key>
 				<string>Rename EHC2 to EH02 (USB)</string>
-				<key>Count</key>
-				<integer>0</integer>
-				<key>Enabled</key>
-				<false/>
 				<key>Find</key>
-				<data>RUhDMg==</data>
-				<key>Limit</key>
-				<integer>0</integer>
-				<key>Mask</key>
-				<data></data>
-				<key>OemTableId</key>
-				<data></data>
+				<data>
+				RUhDMg==
+				</data>
 				<key>Replace</key>
-				<data>RUgwMg==</data>
-				<key>ReplaceMask</key>
-				<data></data>
-				<key>Skip</key>
-				<integer>0</integer>
-				<key>TableLength</key>
-				<integer>0</integer>
+				<data>
+				RUgwMg==
+				</data>
 				<key>TableSignature</key>
-				<data>RFNEVA==</data>
+				<data>
+				RFNEVA==
+				</data>
 			</dict>
 			<dict>
-				<key>Base</key>
-				<string></string>
-				<key>BaseSkip</key>
-				<integer>0</integer>
 				<key>Comment</key>
 				<string>Rename XHCI to XHC (USB)</string>
-				<key>Count</key>
-				<integer>0</integer>
-				<key>Enabled</key>
-				<false/>
 				<key>Find</key>
-				<data>WEhDSQ==</data>
-				<key>Limit</key>
-				<integer>0</integer>
-				<key>Mask</key>
-				<data></data>
-				<key>OemTableId</key>
-				<data></data>
+				<data>
+				WEhDSQ==
+				</data>
 				<key>Replace</key>
-				<data>WEhDXw==</data>
-				<key>ReplaceMask</key>
-				<data></data>
-				<key>Skip</key>
-				<integer>0</integer>
-				<key>TableLength</key>
-				<integer>0</integer>
+				<data>
+				WEhDXw==
+				</data>
 				<key>TableSignature</key>
-				<data>RFNEVA==</data>
+				<data>
+				RFNEVA==
+				</data>
 			</dict>
 			<dict>
-				<key>Base</key>
-				<string></string>
-				<key>BaseSkip</key>
-				<integer>0</integer>
 				<key>Comment</key>
 				<string>Rename XHC1 to XHC (USB)</string>
-				<key>Count</key>
-				<integer>0</integer>
-				<key>Enabled</key>
-				<false/>
 				<key>Find</key>
-				<data>WEhDMQ==</data>
-				<key>Limit</key>
-				<integer>0</integer>
-				<key>Mask</key>
-				<data></data>
-				<key>OemTableId</key>
-				<data></data>
+				<data>
+				WEhDMQ==
+				</data>
 				<key>Replace</key>
-				<data>WEhDXw==</data>
-				<key>ReplaceMask</key>
-				<data></data>
-				<key>Skip</key>
-				<integer>0</integer>
-				<key>TableLength</key>
-				<integer>0</integer>
+				<data>
+				WEhDXw==
+				</data>
 				<key>TableSignature</key>
-				<data>RFNEVA==</data>
+				<data>
+				RFNEVA==
+				</data>
 			</dict>
 		</array>
 		<key>Quirks</key>
@@ -318,57 +278,52 @@
 	<dict>
 		<key>Add</key>
 		<dict>
-			<key>PciRoot(0x0)/Pci(0x1C,0x4)/Pci(0x0,0x0)</key>
-			<dict>
-				<key>AAPL,slot-name</key>
-				<string>WLAN</string>
-				<key>compatible</key>
-				<string>pci14e4,4331</string>
-				<key>device_type</key>
-				<string>Airport Extreme</string>
-				<key>model</key>
-				<string>BCM4350 802.11ac Wireless Network Adapter</string>
-				<key>name</key>
-				<string>Airport</string>
-				<key>pci-aspm-default</key>
-				<integer>0</integer>
-			</dict>
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
 				<key>AAPL,ig-platform-id</key>
-				<data>AAAWWQ==</data>
+				<data>
+				BQAcWQ==
+				</data>
 				<key>AAPL,slot-name</key>
-				<string>Internal@0,2,0</string>
-				<key>AAPL00,override-no-connect</key>
-				<data>AP///////wAGEHycAAAAAAAcAQSlIhNgAm+xp1VMniUMUFQAAAABAQEBAQEBAQEBAQEBAQEBKTaAoHA4H0AwIDUAWMIQAAAYVCuAoHA4H0AwIDUAWMIQAAAYAAAAEAAAAAAAAAAAAAAAAAAAAAAA/gBMTTE1NkxGMUwKIAAAAFo=</data>
+				<string>Internal</string>
+				<key>complete-modeset-framebuffers</key>
+				<data>
+				AAAAAAAAAAE=
+				</data>
 				<key>device-id</key>
-				<data>FlkAAA==</data>
-				<key>device_type</key>
-				<string>VGA compatible controller</string>
-				<key>disable-external-gpu</key>
-				<data>AQAAAA==</data>
-				<key>enable-hdmi20</key>
-				<data>AQAAAA==</data>
+				<data>
+				FlkAAA==
+				</data>
+				<key>force-online</key>
+				<data>
+				AQAAAA==
+				</data>
+				<key>force-online-framebuffers</key>
+				<data>
+				AAAAAAAAAAE=
+				</data>
 				<key>framebuffer-con1-enable</key>
-				<data>AQAAAA==</data>
+				<data>
+				AQAAAA==
+				</data>
+				<key>framebuffer-con1-pipe</key>
+				<data>
+				CgAAAA==
+				</data>
 				<key>framebuffer-con1-type</key>
-				<data>AAgAAA==</data>
-				<key>framebuffer-con2-enable</key>
-				<data>AQAAAA==</data>
-				<key>framebuffer-con2-index</key>
-				<data>/////w==</data>
-				<key>framebuffer-fbmem</key>
-				<data>AACQAA==</data>
+				<data>
+				AAgAAA==
+				</data>
+				<key>framebuffer-flags</key>
+				<data>
+				CwfjAA==
+				</data>
 				<key>framebuffer-patch-enable</key>
-				<data>AQAAAA==</data>
-				<key>framebuffer-portcount</key>
-				<data>AgAAAA==</data>
-				<key>framebuffer-stolenmem</key>
-				<data>AAAwAQ==</data>
-				<key>framebuffer-unifiedmem</key>
-				<data>AAAAgA==</data>
-				<key>model</key>
-				<string>Intel HD Graphics 620</string>
+				<data>
+				AQAAAA==
+				</data>
+				<key>hda-gfx</key>
+				<string>onboard-1</string>
 			</dict>
 		</dict>
 		<key>Delete</key>
@@ -407,24 +362,6 @@
 				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/VirtualSMC</string>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>MinKernel</key>
-				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-			</dict>
-			<dict>
-				<key>Arch</key>
-				<string>Any</string>
-				<key>BundlePath</key>
-				<string>Display-610-9c7c.kext</string>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<true/>
-				<key>ExecutablePath</key>
-				<string></string>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
@@ -490,11 +427,11 @@
 				<key>Arch</key>
 				<string>Any</string>
 				<key>BundlePath</key>
-				<string>AirportBrcmFixup.kext/Contents/PlugIns/AirPortBrcm4360_Injector.kext</string>
+				<string>AirportBrcmFixup.kext/Contents/PlugIns/AirPortBrcmNIC_Injector.kext</string>
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>ExecutablePath</key>
 				<string></string>
 				<key>MaxKernel</key>
@@ -508,11 +445,11 @@
 				<key>Arch</key>
 				<string>Any</string>
 				<key>BundlePath</key>
-				<string>AirportBrcmFixup.kext/Contents/PlugIns/AirPortBrcmNIC_Injector.kext</string>
+				<string>AirportBrcmFixup.kext/Contents/PlugIns/AirPortBrcm4360_Injector.kext</string>
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>ExecutablePath</key>
 				<string></string>
 				<key>MaxKernel</key>
@@ -724,13 +661,13 @@
 				<key>Arch</key>
 				<string>Any</string>
 				<key>BundlePath</key>
-				<string>VoodooI2C.kext/Contents/PlugIns/VoodooGPIO.kext</string>
+				<string>VoodooI2C.kext/Contents/PlugIns/VoodooInput.kext</string>
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
-				<string>Contents/MacOS/VoodooGPIO</string>
+				<string>Contents/MacOS/VoodooInput</string>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
@@ -760,13 +697,13 @@
 				<key>Arch</key>
 				<string>Any</string>
 				<key>BundlePath</key>
-				<string>VoodooI2C.kext/Contents/PlugIns/VoodooInput.kext</string>
+				<string>VoodooI2C.kext/Contents/PlugIns/VoodooGPIO.kext</string>
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
-				<string>Contents/MacOS/VoodooInput</string>
+				<string>Contents/MacOS/VoodooGPIO</string>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
@@ -888,9 +825,11 @@
 		<key>Emulate</key>
 		<dict>
 			<key>Cpuid1Data</key>
-			<data></data>
+			<data>
+			</data>
 			<key>Cpuid1Mask</key>
-			<data></data>
+			<data>
+			</data>
 			<key>DummyPowerManagement</key>
 			<false/>
 			<key>MaxKernel</key>
@@ -933,9 +872,9 @@
 			<false/>
 			<key>AppleXcpmForceBoost</key>
 			<false/>
-			<key>CustomSMBIOSGuid</key>
-			<false/>
 			<key>CustomPciSerialDevice</key>
+			<false/>
+			<key>CustomSMBIOSGuid</key>
 			<false/>
 			<key>DisableIoMapper</key>
 			<true/>
@@ -1059,9 +998,11 @@
 			<key>HaltLevel</key>
 			<integer>2147483648</integer>
 			<key>PasswordHash</key>
-			<data></data>
+			<data>
+			</data>
 			<key>PasswordSalt</key>
-			<data></data>
+			<data>
+			</data>
 			<key>ScanPolicy</key>
 			<integer>0</integer>
 			<key>SecureBootModel</key>
@@ -1086,7 +1027,9 @@
 				<key>LineControl</key>
 				<integer>7</integer>
 				<key>PciDeviceInfo</key>
-				<data>/w==</data>
+				<data>
+				/w==
+				</data>
 				<key>RegisterAccessWidth</key>
 				<integer>8</integer>
 				<key>RegisterBase</key>
@@ -1154,23 +1097,32 @@
 			<key>4D1EDE05-38C7-4A6A-9CC6-4BCCA8B38C14</key>
 			<dict>
 				<key>DefaultBackgroundColor</key>
-				<data>AAAAAA==</data>
+				<data>
+				AAAAAA==
+				</data>
 				<key>UIScale</key>
-				<data>AQ==</data>
+				<data>
+				AQ==
+				</data>
 			</dict>
 			<key>4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102</key>
 			<dict>
 				<key>rtc-blacklist</key>
-				<data></data>
+				<data>
+				</data>
 			</dict>
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<dict>
 				<key>SystemAudioVolume</key>
-				<data>Rg==</data>
+				<data>
+				Rg==
+				</data>
 				<key>boot-args</key>
 				<string>-igfxblr keepsyms=1 debug=0x100 alcid=69 igmfx-country=#a igfxonln=1 -wegnoegpu</string>
 				<key>csr-active-config</key>
-				<data>ZwAAAA==</data>
+				<data>
+				ZwAAAA==
+				</data>
 				<key>prev-lang:kbd</key>
 				<string>72752D52553A323532</string>
 				<key>run-efi-updater</key>
@@ -1215,7 +1167,9 @@
 			<key>BoardProduct</key>
 			<string>Mac-827FB448E656EC26</string>
 			<key>BoardRevision</key>
-			<data>AQ==</data>
+			<data>
+			AQ==
+			</data>
 			<key>DevicePathsSupported</key>
 			<integer>0</integer>
 			<key>FSBFrequency</key>
@@ -1225,11 +1179,15 @@
 			<key>PlatformName</key>
 			<string></string>
 			<key>SmcBranch</key>
-			<data></data>
+			<data>
+			</data>
 			<key>SmcPlatform</key>
-			<data>ajEzMgAAAAA=</data>
+			<data>
+			ajEzMgAAAAA=
+			</data>
 			<key>SmcRevision</key>
-			<data></data>
+			<data>
+			</data>
 			<key>StartupPowerEvents</key>
 			<integer>0</integer>
 			<key>SystemProductName</key>
@@ -1243,14 +1201,16 @@
 		<dict>
 			<key>AdviseFeatures</key>
 			<false/>
-			<key>MaxBIOSVersion</key>
-			<false/>
 			<key>MLB</key>
 			<string>C028523064NJH4RA8</string>
+			<key>MaxBIOSVersion</key>
+			<false/>
 			<key>ProcessorType</key>
 			<integer>1793</integer>
 			<key>ROM</key>
-			<data>LxaM0xi3</data>
+			<data>
+			LxaM0xi3
+			</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
@@ -1295,15 +1255,20 @@
 			<key>ChassisVersion</key>
 			<string>Mac-827FB448E656EC26</string>
 			<key>FirmwareFeatures</key>
-			<data>JvSP/QgAAAA=</data>
+			<data>
+			JvSP/QgAAAA=
+			</data>
 			<key>FirmwareFeaturesMask</key>
-			<data>P/+f/wgAAAA=</data>
+			<data>
+			P/+f/wgAAAA=
+			</data>
 			<key>PlatformFeature</key>
 			<integer>50</integer>
 			<key>ProcessorType</key>
 			<integer>1793</integer>
 			<key>SmcVersion</key>
-			<data></data>
+			<data>
+			</data>
 			<key>SystemFamily</key>
 			<string>MacBook Pro</string>
 			<key>SystemManufacturer</key>
@@ -1361,9 +1326,9 @@
 			<integer>5</integer>
 			<key>PointerPollMask</key>
 			<integer>-1</integer>
-			<key>PointerPollMin</key>
-			<integer>0</integer>
 			<key>PointerPollMax</key>
+			<integer>0</integer>
+			<key>PointerPollMin</key>
 			<integer>0</integer>
 			<key>PointerSpeedDiv</key>
 			<integer>1</integer>
@@ -1467,10 +1432,10 @@
 			<false/>
 			<key>TextRenderer</key>
 			<string>BuiltinGraphics</string>
-			<key>UgaPassThrough</key>
-			<false/>
 			<key>UIScale</key>
 			<integer>-1</integer>
+			<key>UgaPassThrough</key>
+			<false/>
 		</dict>
 		<key>ProtocolOverrides</key>
 		<dict>
